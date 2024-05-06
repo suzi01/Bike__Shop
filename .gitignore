@@ -1,0 +1,20 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Bike Shop/*
+!/Bike Shop/task/
+/Bike Shop/task/*
+!/Bike Shop/task/bikeshop
+!/Bike Shop/task/shop
+!/Bike Shop/task/manage.py
+!/Bike Shop/task/db.test.sqlite3
+!/Bike Shop/task/db.sqlite3
